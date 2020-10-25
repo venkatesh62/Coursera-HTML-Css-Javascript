@@ -82,10 +82,7 @@ p {
     margin-left: -10px;
     width: 100%;
   }
-  .name3{
-    margin-right: 65px;
-    width: 100px;
-  }
+  
 }
 
 @media (min-width: 0px) and (max-width: 767px) {
